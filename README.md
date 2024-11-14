@@ -14,6 +14,4 @@ While these programs are awaiting a rewrite (probably in C++ since I like it mor
 
 **DISCLAIMER
 -------
-Supercell deletes accounts after 6 years of inactivity. This means Supercell can delete historically significant clans if there is no other account in the clan to which the deleted account can pass its Leader role. 
-
 THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This material is unofficial and is not endorsed, affiliated with, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell's Fan Content Policy.](https://www.supercell.com/fan-content-policy)
