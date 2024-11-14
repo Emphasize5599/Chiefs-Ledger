@@ -1,6 +1,6 @@
 ![Screenshot from 2024-11-13 22-54-10](https://github.com/user-attachments/assets/842cb66e-7c29-43b6-88bf-9a0c8c81f2d6)
 
-Chiefs Ledger
+Chief's Ledger
 -------
 A command-line toolset that any Chief can use to keep track of the most seasoned Clash of Clans players.
 
