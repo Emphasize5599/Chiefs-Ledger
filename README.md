@@ -12,6 +12,6 @@ These databases can be easily sorted through with a spreadsheet program like Lib
 
 While these programs are awaiting a rewrite (probably in C++ since I like it more), you can definitely still have fun and learn from them, whether you're interested in the databases or the sequencing methods found in the code :)
 
-**DISCLAIMER
+DISCLAIMER
 -------
 THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. This material is unofficial and is not endorsed, affiliated with, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell's Fan Content Policy.](https://www.supercell.com/fan-content-policy)
